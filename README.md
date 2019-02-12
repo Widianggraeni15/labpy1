@@ -1,4 +1,4 @@
-praktikum2
+**praktikum2**
 
 **Algoritma menentukan bilangan terbesar dari 3 bilangan**
 
@@ -18,7 +18,7 @@ praktikum2
 
 **Hasil program dan eksekusi**
 
-*Program setelah dibuat dari algoritma di atas
+* Program setelah dibuat dari algoritma di atas
 
 ![py](https://user-images.githubusercontent.com/46734744/52644110-d1f53100-2f10-11e9-8541-e68a0d324ac2.png)
 
