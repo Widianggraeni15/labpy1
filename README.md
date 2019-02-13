@@ -1,4 +1,4 @@
-**praktikum2**
+**Latihan2**
 
 **Algoritma menentukan bilangan terbesar dari 3 bilangan**
 
